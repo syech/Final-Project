@@ -1,0 +1,41 @@
+i{
+    font-size: 2em;
+    margin: 10px;
+    color: white;
+}
+.service{
+    color: #333;
+    font-size: 200px;
+    text-align: center;
+}
+.lbr {
+    width: 200px;
+    background-color: #333;
+}
+.test{
+    text-align: center;
+    color: white;
+}
+.jumbotron1{background: rgb(29, 29, 29);
+    color: orangered;
+}
+.jumbotron3{
+    background-color: rgb(27, 27, 27);
+    color: orangered;
+    text-align: center;
+}
+.jumbotron3 img{
+    border-radius: 50%;
+}
+@media (max-width: 576px) {
+    .jumbotron2{
+        display: none;
+    }
+}
+@media (max-width: 768px) {
+}
+@media (max-width: 1024px) {
+    .asik{
+    height: 40vh;
+    }
+}
